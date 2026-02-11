@@ -1,2 +1,1 @@
 {"buildCommand": "npm run build", "outputDirectory": "build"}
-{"buildCommand": "vercel.json", "outputDirectory": "build"}
